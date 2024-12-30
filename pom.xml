@@ -27,7 +27,8 @@
                 <version>3.0.0-M9</version> <!-- Use the latest version -->
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testng_Login DDT.xml</suiteXmlFile>
+                        <suiteXmlFile>testng_HomePage.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
